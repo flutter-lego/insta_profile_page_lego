@@ -1,7 +1,7 @@
 name: insta_profile_page_lego
 description: "Instagram Profile Page Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/insta_profile_page_lego
 
 version: 1.0.0
 
